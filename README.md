@@ -1,1 +1,1 @@
-# system-linux
+# gamesense.net hwid
